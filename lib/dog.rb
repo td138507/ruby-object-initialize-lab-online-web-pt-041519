@@ -6,5 +6,6 @@ class Dog
 
   def initialize(Breed)
     @Breed = "Mutt"
-    Breed = "Mutt"
+    Breed = 0
+      puts "Mutt"
 end
