@@ -7,4 +7,7 @@ class Dog
   def initilize(breed)
     @breed = "Mutt"
   end
+
+lassie = Dog.new("Mutt")
+
 end
