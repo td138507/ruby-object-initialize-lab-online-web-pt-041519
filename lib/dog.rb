@@ -8,4 +8,5 @@ class Dog
     @Breed = "Mutt"
     Breed = 0
       puts "Mutt"
+    end
 end
