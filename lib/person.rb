@@ -4,8 +4,5 @@ class Person
     @name = "Beyonce"
   end
 
-  def name
-    @name
-  end
 
 end
